@@ -1,4 +1,4 @@
-# dialogue_exchange
+# Dialogue_Exchange
 A program that simulates talking to an NPC with limited options.
 I wanted to figure out a process where the user is given a choice and the program will give a response based on that choice.
 the inspiration comes from playing various games that are text heavy, but commonly lack a way to engage the conversation.
